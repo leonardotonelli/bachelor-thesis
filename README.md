@@ -1,4 +1,4 @@
-# A comparative analysis of optimization algorithms for the Binary Perceptron
+# Replicated Approach to the Binary Perceptron
 
 This repository contains the code for my Bocconi University bachelor's thesis (see thesis_.pdf). It implements and compares standard Simulated Annealing and Gradient Descent against their "replicated" versions for solving the Binary Perceptron problem.
 
