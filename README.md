@@ -8,8 +8,8 @@ The following plots showcase the comparative performance of the two algorithms u
 
 ### Gradient Descent Comparison
 
-![Gradient Descent Comparison](plots/gd_comparison.pdf)
+![Gradient Descent Comparison](plots/gd_comparison.png)
 
 ### Simulated Annealing Comparison
 
-![Simulated Annealing Comparison](plots/sa_comparison.pdf)
+![Simulated Annealing Comparison](plots/sa_comparison.png)
